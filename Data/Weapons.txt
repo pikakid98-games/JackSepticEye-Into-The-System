@@ -1,0 +1,300 @@
+Weapon 1
+Name = "Plus 1 Byceps"
+Description = "Nuff Said"
+Note = ""
+
+Weapon 2
+Name = "Battle Axe"
+Description = "Double-sided axe made for combat."
+Note = ""
+
+Weapon 3
+Name = "Bardiche"
+Description = "Three crescent blades on this axe."
+Note = ""
+
+Weapon 4
+Name = "Mithril Axe"
+Description = "Mithril axe made of the magic mineral."
+Note = ""
+
+Weapon 5
+Name = "Crimson Axe"
+Description = "Crimson soaked battle axe."
+Note = ""
+
+Weapon 6
+Name = "Gigantes Axe"
+Description = "Heavy axe used by giants."
+Note = ""
+
+Weapon 7
+Name = "Cestus"
+Description = "Spikes appear on the head of this glove."
+Note = ""
+
+Weapon 8
+Name = "Bagna"
+Description = "Fighting weapon with four short nails."
+Note = ""
+
+Weapon 9
+Name = "Iron Claw"
+Description = "Its claws are made of steel."
+Note = ""
+
+Weapon 10
+Name = "Mithril Claw"
+Description = "Mithril claw made of the magic mineral."
+Note = ""
+
+Weapon 11
+Name = "Dragon Fang"
+Description = "The claw head is made of dragon fangs."
+Note = ""
+
+Weapon 12
+Name = "Zephyrus Claw"
+Description = "Four winds empower this claw."
+Note = ""
+
+Weapon 13
+Name = "Spear"
+Description = "A short spear."
+Note = ""
+
+Weapon 14
+Name = "Partisan"
+Description = "A long spear with a long blade."
+Note = ""
+
+Weapon 15
+Name = "Halberd"
+Description = "An axe is mounted on this spear."
+Note = ""
+
+Weapon 16
+Name = "Mithril Spear"
+Description = "Mithril spear made of the magic mineral."
+Note = ""
+
+Weapon 17
+Name = "Holy Lance"
+Description = "A white spirit blessed this holy spear."
+Note = ""
+
+Weapon 18
+Name = "Gaebulg Spear"
+Description = "Contains deeply engraved shadow magic."
+Note = ""
+
+Weapon 19
+Name = "Short Sword"
+Description = "Light and easy-to-use short sword."
+Note = ""
+
+Weapon 20
+Name = "Long Sword"
+Description = "The strength of the longest combat sword."
+Note = ""
+
+Weapon 21
+Name = "Falcion"
+Description = "A broad sword with a crescent blade."
+Note = ""
+
+Weapon 22
+Name = "Mithril Sword"
+Description = "Mithril sword made of the magic mineral."
+Note = ""
+
+Weapon 23
+Name = "Rune Blade"
+Description = "Engraved with magical runes."
+Note = ""
+
+Weapon 24
+Name = "Tyrfing Sword"
+Description = "The magic sword that brings triumph over evil."
+Note = ""
+
+Weapon 25
+Name = "Katana"
+Description = "Has a slender sword inscription."
+Note = ""
+
+Weapon 26
+Name = "Zanbatou"
+Description = "Excellent sword with destructive power."
+Note = ""
+
+Weapon 27
+Name = "Toratouru"
+Description = "A short sword tempered with frost."
+Note = ""
+
+Weapon 28
+Name = "Reigin no Tachi"
+Description = "Magic katana made of the magic mineral."
+Note = ""
+
+Weapon 29
+Name = "Shichishitou"
+Description = "An ancient sword with hidden power."
+Note = ""
+
+Weapon 30
+Name = "Muramasa Katana"
+Description = "A demonic sword that sucks the life of the wielder."
+Note = ""
+
+Weapon 31
+Name = "Shortbow"
+Description = "A shortbow made for hunting."
+Note = ""
+
+Weapon 32
+Name = "Longbow"
+Description = "The circular shape grants it strength."
+Note = ""
+
+Weapon 33
+Name = "Crossbow"
+Description = "Shoots a crossbow arrow from a strong string."
+Note = ""
+
+Weapon 34
+Name = "Mithril Bow"
+Description = "Mithril bow made of the magic mineral."
+Note = ""
+
+Weapon 35
+Name = "Ebon Bow"
+Description = "A bow made from the earth spirits."
+Note = ""
+
+Weapon 36
+Name = "Artemis Bow"
+Description = "A bow that bears the name of the Moon Goddess."
+Note = ""
+
+Weapon 37
+Name = "Knife"
+Description = "Your run-of-the-mill knife."
+Note = ""
+
+Weapon 38
+Name = "Dagger"
+Description = "A dagger with a large blade made for combat."
+Note = ""
+
+Weapon 39
+Name = "Main Gauche"
+Description = "Knife used for fending off attacks."
+Note = ""
+
+Weapon 40
+Name = "Mithril Knife"
+Description = "Mithril knife made of the magic mineral."
+Note = ""
+
+Weapon 41
+Name = "Assassin's Dagger"
+Description = "Used for assassinations."
+Note = ""
+
+Weapon 42
+Name = "Vortex Blade"
+Description = "Bears the name of an intense maelstrom."
+Note = ""
+
+Weapon 43
+Name = "Mace"
+Description = "A circular club with metal spikes."
+Note = ""
+
+Weapon 44
+Name = "Flail"
+Description = "An iron ball dangling from a chain."
+Note = ""
+
+Weapon 45
+Name = "War Hammer"
+Description = "A steel hammer made for battle."
+Note = ""
+
+Weapon 46
+Name = "Mithril Mace"
+Description = "Mithril mace made of the magic mineral."
+Note = ""
+
+Weapon 47
+Name = "Ground Breaker"
+Description = "The earth can crack from this magical hammer."
+Note = ""
+
+Weapon 48
+Name = "Mourner Hammer "
+Description = "The \"Crusher\" is what the God of War nicknamed this."
+Note = ""
+
+Weapon 49
+Name = "Wood Staff"
+Description = "Sturdy staff made of oak."
+Note = ""
+
+Weapon 50
+Name = "Magic Staff"
+Description = "An orb attached to this staff helps with casting magic."
+Note = ""
+
+Weapon 51
+Name = "Force Wand"
+Description = "Silver amplifies the magic cast from this wand."
+Note = ""
+
+Weapon 52
+Name = "Mithril Rod"
+Description = "Mithril rod made of the magic mineral."
+Note = ""
+
+Weapon 53
+Name = "Spirit Staff"
+Description = "A cane made from an old tree of mistletoe."
+Note = ""
+
+Weapon 54
+Name = "Magic Wand Azert"
+Description = "A magic wand embedded with the Philosopher's Stone."
+Note = ""
+
+Weapon 55
+Name = "Flint Lock"
+Description = "Antique pistol with a funky brace."
+Note = ""
+
+Weapon 56
+Name = "Musket"
+Description = "A gun used by musketeers."
+Note = ""
+
+Weapon 57
+Name = "Dragoon"
+Description = "Used by the cavalry."
+Note = ""
+
+Weapon 58
+Name = "Mithril Gun"
+Description = "Mithril gun made of the magic mineral."
+Note = ""
+
+Weapon 59
+Name = "Peacemaker"
+Description = "Revolving pistol that uses black powder."
+Note = ""
+
+Weapon 60
+Name = "Etherblast Gun"
+Description = "A magical gun that shoots bullets from nothing."
+Note = ""
+

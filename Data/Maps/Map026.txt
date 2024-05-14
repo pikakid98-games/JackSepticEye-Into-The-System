@@ -1,0 +1,86 @@
+Display Name = ""
+Parallax Name = ""
+Note = ""
+
+CommonEvent 1
+Name = "EV001"
+
+  Page 0
+    PlaySE(["RPG::SE(@name=\"Open1\", @pitch=100, @volume=80)"])
+    SetMoveRoute([0, "RPG::MoveRoute(@repeat=false, @skippable=false, @wait=true, @list=[\"RPG::MoveCommand(@code=17, @parameters=[])\", \"RPG::MoveCommand(@code=15, @parameters=[3])\", \"RPG::MoveCommand(@code=18, @parameters=[])\", \"RPG::MoveCommand(@code=15, @parameters=[3])\", \"RPG::MoveCommand(@code=19, @parameters=[])\", \"RPG::MoveCommand(@code=37, @parameters=[])\", \"RPG::MoveCommand(@code=0, @parameters=[])\"])"])
+    Unnamed(["RPG::MoveCommand(@code=17, @parameters=[])"])
+    Unnamed(["RPG::MoveCommand(@code=15, @parameters=[3])"])
+    Unnamed(["RPG::MoveCommand(@code=18, @parameters=[])"])
+    Unnamed(["RPG::MoveCommand(@code=15, @parameters=[3])"])
+    Unnamed(["RPG::MoveCommand(@code=19, @parameters=[])"])
+    Unnamed(["RPG::MoveCommand(@code=37, @parameters=[])"])
+    SetMoveRoute([-1, "RPG::MoveRoute(@repeat=false, @skippable=true, @wait=true, @list=[\"RPG::MoveCommand(@code=12, @parameters=[])\", \"RPG::MoveCommand(@code=0, @parameters=[])\"])"])
+    Unnamed(["RPG::MoveCommand(@code=12, @parameters=[])"])
+    PlaySE(["RPG::SE(@name=\"Move\", @pitch=100, @volume=80)"])
+    TransferPlayer([0, 25, 9, 28, 0, 0])
+    Empty([])
+
+CommonEvent 2
+Name = "EV002"
+
+  Page 0
+    ShowTextAttributes(["", 0, 0, 2])
+    ShowText(["\\C[8]Succubus"])
+    ShowText(["\\C[0] Who Are You?"])
+    ShowTextAttributes(["", 0, 0, 2])
+    ShowText(["\\C[3]Sean"])
+    ShowText(["\\C[0] I'm Sean. But You Can Call Me Jack... If You Want"])
+    ShowTextAttributes(["", 0, 0, 2])
+    ShowText(["\\C[8]Succubus"])
+    ShowText(["\\C[0] Why Are You Here Sean?"])
+    ShowTextAttributes(["", 0, 0, 2])
+    ShowText(["\\C[3]Sean"])
+    ShowText(["\\C[0] Your Minion Flame Sent Me"])
+    ShowTextAttributes(["", 0, 0, 2])
+    ShowText(["\\C[8]Succubus"])
+    ShowText(["\\C[0] WHAT!?!?! NO!?!?!? WHAT TIME IS IT!?!?!"])
+    ShowTextAttributes(["", 0, 0, 2])
+    ShowText(["The Succubus Falls Backwards"])
+    ShowTextAttributes(["", 0, 0, 2])
+    ShowText(["\\C[8]Succubus"])
+    ShowText(["\\C[0] So... Hungry"])
+    ShowChoices([["Give Her The Bottle", "Try To Help Her Up", "Leave Her Alone"], 0])
+    When([0, "Give Her The Bottle"])
+      ShowTextAttributes(["", 0, 0, 2])
+      ShowText(["\\C[8]Succubus"])
+      ShowText(["\\C[0] Is That...?"])
+      ShowTextAttributes(["", 0, 0, 2])
+      ShowText(["The Succubus Snatches The Life Essence Bottle Out"])
+      ShowText(["Of Your Hand"])
+      ChangeItems([16, 1, 0, 1])
+      ShowTextAttributes(["", 0, 0, 2])
+      ShowText(["\\C[8]Succubus"])
+      ShowText(["\\C[0] Thank You... So Much"])
+      Empty([])
+
+    When([1, "Try To Help Her Up"])
+      ShowTextAttributes(["", 0, 0, 2])
+      ShowText(["The Succubus Shakes Her Head At You"])
+      ShowText([" "])
+      ShowText(["\\C[5](Note: This Converstaion Will Repeat Until The"])
+      ShowText(["Correct Option Is Chosen)"])
+      Empty([])
+
+    When([2, "Leave Her Alone"])
+      ShowTextAttributes(["", 0, 0, 2])
+      ShowText(["The Succubus Holds Her Stomach"])
+      ShowText([" "])
+      ShowText(["\\C[5](Note: This Converstaion Will Repeat Until The"])
+      ShowText(["Correct Option Is Chosen)"])
+      Empty([])
+
+    ChoicesEnd([])
+    ShowTextAttributes(["", 0, 0, 2])
+    ShowText(["\\C[8]Succubus"])
+    ShowText(["\\C[0] Stop By My Shop At Anytime...I Sell Items."])
+    ShowText(["I'm Also A Traveling Merchant. I MAy Follow You On"])
+    ShowText(["Your Adventure To Sell You Items"])
+    ShowTextAttributes(["", 0, 0, 2])
+    ShowText(["\\C[3]Sean"])
+    ShowText(["\\C[0] Ok Then"])
+    Empty([])

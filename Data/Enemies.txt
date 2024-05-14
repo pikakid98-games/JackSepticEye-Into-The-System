@@ -1,0 +1,180 @@
+Enemy 1
+Battler Name = "Slime"
+Name = "Slime"
+Description = nil
+Note = ""
+
+Enemy 2
+Battler Name = "Bat"
+Name = "Bat"
+Description = nil
+Note = ""
+
+Enemy 3
+Battler Name = "Hornet"
+Name = "Hornet"
+Description = nil
+Note = ""
+
+Enemy 4
+Battler Name = "Spider"
+Name = "Spider"
+Description = nil
+Note = ""
+
+Enemy 5
+Battler Name = "Rat"
+Name = "Rate"
+Description = nil
+Note = ""
+
+Enemy 6
+Battler Name = "Willowisp"
+Name = "Wisp"
+Description = nil
+Note = ""
+
+Enemy 7
+Battler Name = "Snake"
+Name = "Large Snake"
+Description = nil
+Note = ""
+
+Enemy 8
+Battler Name = "Scorpion"
+Name = "Scorpion"
+Description = nil
+Note = ""
+
+Enemy 9
+Battler Name = "Jellyfish"
+Name = "Jellyfish"
+Description = nil
+Note = ""
+
+Enemy 10
+Battler Name = "Plant"
+Name = "Man-Eating Plant"
+Description = nil
+Note = ""
+
+Enemy 11
+Battler Name = "Ghost"
+Name = "Ghost"
+Description = nil
+Note = ""
+
+Enemy 12
+Battler Name = "Skeleton"
+Name = "Skeleton"
+Description = nil
+Note = ""
+
+Enemy 13
+Battler Name = "Orc"
+Name = "Orc"
+Description = nil
+Note = ""
+
+Enemy 14
+Battler Name = "Imp"
+Name = "Imp"
+Description = nil
+Note = ""
+
+Enemy 15
+Battler Name = "Gayzer"
+Name = "Gazer"
+Description = nil
+Note = ""
+
+Enemy 16
+Battler Name = "Puppet"
+Name = "Puppet"
+Description = nil
+Note = ""
+
+Enemy 17
+Battler Name = "Zombie"
+Name = "Zombie"
+Description = nil
+Note = ""
+
+Enemy 18
+Battler Name = "Cockatrice"
+Name = "Cockatrice"
+Description = nil
+Note = ""
+
+Enemy 19
+Battler Name = "Chimera"
+Name = "Chimera"
+Description = nil
+Note = ""
+
+Enemy 20
+Battler Name = "Mimic"
+Name = "Mimic"
+Description = nil
+Note = ""
+
+Enemy 21
+Battler Name = "Werewolf"
+Name = "Werewolf"
+Description = nil
+Note = ""
+
+Enemy 22
+Battler Name = "Sahagin"
+Name = "Sahagin"
+Description = nil
+Note = ""
+
+Enemy 23
+Battler Name = "Ogre"
+Name = "Ogre"
+Description = nil
+Note = ""
+
+Enemy 24
+Battler Name = "Gargoyle"
+Name = "Gargoyle"
+Description = nil
+Note = ""
+
+Enemy 25
+Battler Name = "Lamia"
+Name = "Lamia"
+Description = nil
+Note = ""
+
+Enemy 26
+Battler Name = "Vampire"
+Name = "Vampire"
+Description = nil
+Note = ""
+
+Enemy 27
+Battler Name = "Succubus"
+Name = "Succubus"
+Description = nil
+Note = ""
+
+Enemy 28
+Battler Name = "Demon"
+Name = "Demon"
+Description = nil
+Note = ""
+
+Enemy 29
+Battler Name = "Darklord"
+Name = "Demon King"
+Description = nil
+Note = ""
+
+Enemy 30
+Battler Name = "Evilgod"
+Name = "Demon God"
+Description = nil
+Note = ""
+
